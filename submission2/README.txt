@@ -1,21 +1,20 @@
 Link to unlisted youtube video:
-https://youtube.com/.....
+
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+
 
 Paper title:
-NLP using ANN
+BDANN: BERT-Based Domain Adaptation Neural Network for Multi-Modal Fake News Detection
 
 Link to the paper:
-https://ieeexplore......
+https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/9206973?casa_token=V4OHRc_WnE8AAAAA:oIEtPqbKq16FBhc-X_ifNdBD2uuZlVt8C-EpjfbvmKofUp6NueZaTEE9NKffO0VCQGheGUOAgsQW1uQ
 
 Group Number:
-0
+10
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+18166012 Mahrin Tasfe
+22166010 Mostofa Kamal Sagor
+22166030 Shakib Mahmud Dipto
+22166047 Irfana Afifa

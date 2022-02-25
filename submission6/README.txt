@@ -1,6 +1,6 @@
 Completed coursera course using email
-someone@gmail.com
-https://www.coursera.org/learn/this_is_a_course
+mostofa.kamal.sagor@g.bracu.ac.bd
+https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome
 
 Completed edx course using email
 someone@gmail.com
@@ -23,8 +23,11 @@ did something else
 ...
 
 was active in slack:
+https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1643633578935599
+https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1643644865966109
 https://bucse712spring2022.slack.com/archives/C030G9964D7/p1644032938984529
 https://bucse712spring2022.slack.com/archives/C030G9964D7/p1643860078706299
+https://bucse712spring2022.slack.com/archives/C030G9964D7/p1645810770334289
 
 Submitter:
 22166010 Mostofa Kamal Sagor

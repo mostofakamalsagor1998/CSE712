@@ -19,8 +19,8 @@ did something else
 ...
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse712spring2022.slack.com/archives/C030G9964D7/p1644032938984529
+https://bucse712spring2022.slack.com/archives/C030G9964D7/p1643860078706299
 
 Submitter:
 12345678 Name A

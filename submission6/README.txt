@@ -2,10 +2,6 @@ Completed coursera course using email
 mostofa.kamal.sagor@g.bracu.ac.bd
 https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome
 
-Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
-
 completed youtube video:
 https://www.youtube.com/watch?v=CMrHM8a3hqw&ab_channel=Simplilearn
 https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
@@ -15,12 +11,6 @@ https://www.youtube.com/watch?v=GwIo3gDZCVQ&ab_channel=edureka%21
 
 completed book:
 https://www.the-wow-collection.com/software/NLPforBeginners.pdf
-
-did project:
-.....
-
-did something else
-...
 
 was active in slack:
 https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1643633578935599

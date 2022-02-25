@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1i81obQy4AHOEGQ3WxBP9JjrCYEjtkOkP/edit?usp=sharing&ouid=112982011775351912233&rtpof=true&sd=true
 
 Paper title:
 BDANN: BERT-Based Domain Adaptation Neural Network for Multi-Modal Fake News Detection

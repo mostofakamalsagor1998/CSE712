@@ -1,11 +1,11 @@
 Link to unlisted youtube video:
-https://youtube.com/.....
+
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+
 Native/original format: 
-https://draw.io/...
+
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
@@ -15,17 +15,16 @@ Jurafsky
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://books.google.com/books...
+https://web.stanford.edu/~jurafsky/slp3/12.pdf
 
 Group Number:
-0
+10
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+18166012 Mahrin Tasfe
+22166010 Mostofa Kamal Sagor
+22166030 Shakib Mahmud Dipto
+22166047 Irfana Afifa

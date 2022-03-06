@@ -1,5 +1,5 @@
 Link to unlisted youtube video:
-
+https://www.youtube.com/watch?v=6ZtxXRnVj2c&list=PLpZUIPgftcF98KJKSbkvz8geP6FWD6Blo&index=3&ab_channel=MostofaKamalSagor
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: https://drive.google.com/file/d/1HuhD2ftvDPtcHN3YN1TZ0p1iVZDXovDS/view?usp=sharing

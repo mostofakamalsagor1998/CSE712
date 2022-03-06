@@ -18,7 +18,7 @@ Link to the book:
 https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://web.stanford.edu/~jurafsky/slp3/12.pdf
+https://web.stanford.edu/~jurafsky/slp3/13.pdf
 
 Group Number:
 10

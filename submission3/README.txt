@@ -2,10 +2,10 @@ Link to unlisted youtube video:
 
 
 Two public link to the Concept Map (anyone on the internet can view without login):
-PDF: 
+PDF: https://drive.google.com/file/d/1HuhD2ftvDPtcHN3YN1TZ0p1iVZDXovDS/view?usp=sharing
 
 Native/original format: 
-
+https://drive.google.com/file/d/110LDdhz8bLMtSWx_ZwLjtfRCMxYcaqFC/view?usp=sharing
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing

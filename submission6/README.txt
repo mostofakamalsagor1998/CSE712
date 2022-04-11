@@ -1,5 +1,6 @@
-completed tutorial:
+completed tutorial/lessons:
 https://fullstackdeeplearning.com/
+https://www.codecademy.com/courses/natural-language-processing/lessons/getting-started-with-nlp
 
 completed youtube video:
 https://www.youtube.com/watch?v=CMrHM8a3hqw&ab_channel=Simplilearn
@@ -28,6 +29,7 @@ https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1643644865966109
 https://bucse712spring2022.slack.com/archives/C030G9964D7/p1644032938984529
 https://bucse712spring2022.slack.com/archives/C030G9964D7/p1643860078706299
 https://bucse712spring2022.slack.com/archives/C030G9964D7/p1645810770334289
+https://bucse712spring2022.slack.com/archives/C030G9964D7/p1649676942908199
 
 Submitter:
 22166010 Mostofa Kamal Sagor

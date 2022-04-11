@@ -1,7 +1,3 @@
-Completed coursera course using email
-mostofa.kamal.sagor@g.bracu.ac.bd
-https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome
-
 completed youtube video:
 https://www.youtube.com/watch?v=CMrHM8a3hqw&ab_channel=Simplilearn
 https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv

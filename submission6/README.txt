@@ -20,9 +20,6 @@ https://www.youtube.com/watch?v=8cN0PiZQl18&list=PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ld
 https://www.youtube.com/watch?v=IrPhMM_RUmg&list=PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ldbaV&index=10
 https://www.youtube.com/watch?v=kxeyoyrf2cM&list=PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ldbaV&index=11
 
-completed book:
-https://www.the-wow-collection.com/software/NLPforBeginners.pdf
-
 was active in slack:
 https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1643633578935599
 https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1643644865966109

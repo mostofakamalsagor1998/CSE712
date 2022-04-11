@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=CMrHM8a3hqw&ab_channel=Simplilearn
 https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 https://www.youtube.com/watch?v=lK9gx4q_vfI&ab_channel=codebasics
-https://www.youtube.com/watch?v=GwIo3gDZCVQ&ab_channel=edureka%21
+https://www.youtube.com/watch?v=VyDmQggfsZ0
 https://www.youtube.com/watch?v=hvgnX1gbsLA&list=PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ldbaV
 https://www.youtube.com/watch?v=PcstG8qiObc&list=PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ldbaV&index=2
 https://www.youtube.com/watch?v=Edhv7-4t0lc&list=PLqnslRFeH2Uqfv1Vz3DqeQfy0w20ldbaV&index=3

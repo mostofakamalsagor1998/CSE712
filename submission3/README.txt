@@ -3,7 +3,6 @@ https://www.youtube.com/watch?v=6ZtxXRnVj2c&list=PLpZUIPgftcF98KJKSbkvz8geP6FWD6
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: https://drive.google.com/file/d/1HuhD2ftvDPtcHN3YN1TZ0p1iVZDXovDS/view?usp=sharing
-
 Native/original format: 
 https://drive.google.com/file/d/110LDdhz8bLMtSWx_ZwLjtfRCMxYcaqFC/view?usp=sharing
 

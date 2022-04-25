@@ -1,3 +1,8 @@
+Completed coursera course using email
+mostofa.kamal.sagor@g.bracu.ac.bd
+https://coursera.org/share/c581681a4c69508e31a71477786b2a2c
+https://coursera.org/share/a8295834e40e5561952ab988bf71c8ee
+
 completed tutorial/lessons:
 https://fullstackdeeplearning.com/
 https://www.codecademy.com/courses/natural-language-processing/lessons/getting-started-with-nlp
@@ -29,6 +34,8 @@ https://bucse712spring2022.slack.com/archives/C030G9964D7/p1645810770334289
 https://bucse712spring2022.slack.com/archives/C030G9964D7/p1649676942908199
 https://bucse712spring2022.slack.com/archives/C030G9964D7/p1649677572682639
 https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1649678100203019
+https://bucse712spring2022.slack.com/archives/C030G9964D7/p1650639859487099
+https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1650886185783159
 
 Submitter:
 22166010 Mostofa Kamal Sagor

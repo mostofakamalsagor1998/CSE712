@@ -1,7 +1,6 @@
 completed coursera course using email
 mostofa.kamal.sagor@g.bracu.ac.bd
 https://coursera.org/share/c581681a4c69508e31a71477786b2a2c
-https://coursera.org/share/a8295834e40e5561952ab988bf71c8ee
 
 completed tutorial/lessons:
 https://fullstackdeeplearning.com/

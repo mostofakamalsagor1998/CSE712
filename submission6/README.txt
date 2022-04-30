@@ -35,6 +35,9 @@ https://bucse712spring2022.slack.com/archives/C030G9964D7/p1649677572682639
 https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1649678100203019
 https://bucse712spring2022.slack.com/archives/C030G9964D7/p1650639859487099
 https://bucse712spring2022.slack.com/archives/C030QR9L0KF/p1650886185783159
+https://bucse712spring2022.slack.com/archives/C033PLE89FF/p1650614920235559
+https://bucse712spring2022.slack.com/archives/C033PLE89FF/p1651306479863969?thread_ts=1650109558.386259&cid=C033PLE89FF
+https://bucse712spring2022.slack.com/archives/C033PLE89FF/p1651306589965279?thread_ts=1650109558.386259&cid=C033PLE89FF
 
 Submitter:
 22166010 Mostofa Kamal Sagor

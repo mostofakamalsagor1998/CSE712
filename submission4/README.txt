@@ -5,10 +5,10 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Leveraging Transformer Based Approach to Improve Rumor Classification From Twitter Data
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1zcHlhjxaxZX80Se5bxIlJryYjL-r-2Om/edit?usp=sharing&ouid=112982011775351912233&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
 25 October 1999
@@ -23,11 +23,10 @@ Conference URL:
 http://confsite/...
 
 Group Number:
-0
+10
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+18166012 Mahrin Tasfe
+22166010 Mostofa Kamal Sagor
+22166030 Shakib Mahmud Dipto
+22166047 Irfana Afifa

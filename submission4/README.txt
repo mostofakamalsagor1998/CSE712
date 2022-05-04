@@ -2,7 +2,7 @@ Unlisted youtube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-
+https://new.precisionconference.com/user/login?society=aaai
 
 Paper title:
 Leveraging Transformer Based Approach to Improve Rumor Classification From Twitter Data

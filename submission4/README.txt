@@ -2,7 +2,7 @@ Unlisted youtube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-https://new.precisionconference.com/icwsm23a/coauthor/subs/1047
+https://new.precisionconference.com/icwsm23a
 
 Paper title:
 Leveraging Transformer Based Approach to Improve Rumor Classification From Twitter Data
